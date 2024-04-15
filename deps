@@ -1,0 +1,4 @@
+godotenv
+
+# run this
+go get github.com/joho/godotenv
